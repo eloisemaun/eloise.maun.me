@@ -1,0 +1,196 @@
+{ 
+    "companies": [
+        {
+            "name": "IN-RGY",
+            "years": "2018-2019",
+            "positions": [
+                {
+                    "title": "Senior HRIS Consultant",
+                    "descriptions": [
+                        {
+                            "text": "HRIS integration and data architecture (requirements gathering, client consultation, software architecture). Integration and custom functionality engineering via APIs (building, defect management and resolution, technical documentation, client support). Mentoring other consultants and external partner firm consultants. Leading onsite client workshops, general project lead and integrations lead, team leadership. Highly regarded resource for solving complicated problems, addressing urgent escalations, and recovering failing client relationships.<br><br>Tools/skills: Rhino, JavaScript, Java, SQL Server, Oracle, Atlassian Suite (JIRA, Hipchat, BitBucket, Confluence), Git, Perforce, Code Collaborator, Salesforce, Sharepoint, Advanced Excel (Power Query, formula language, and Visual Basic), SOAPui, dbvis, Requirements gathering, direct client interaction, Agile methodology, Waterfall methodology, ETL, data modeling",
+                            "tags": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WorkForce Software",
+            "years": "2017-2018",
+            "positions": [
+                {
+                    "title": "Integration Architect",
+                    "descriptions": [
+                        {
+                            "text": "Integration and data architecture, integration and custom functionality engineering, and team mentorship (all as described above). ",
+                            "tags": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        { 
+            "name": "Fuji Arts",
+            "years": "2008-2017",
+            "positions": [
+                { 
+                    "title": "Full Stack Developer",
+                    "descriptions": [
+                        {
+                            "text": "Webmaster, designer, and developer for FujiArts.com public and administrative sites. Start-to-finish creation of many internal tools and external site features. Requirements gatherings, UX design and prototyping, information architecture, database management, code planning/development, QA testing/organization, bug management and resolution, technical documentation, and user support.<br><br>Tools/skills: Perl, PHP, MySQL, SQL, Microsoft Access, eBay Blackthorne, Ajax via vanilla JavaScript, Apache, CSS (vanilla, Bootstrap), JavaScript (vanilla, Bootstrap, jQuery, Ajax, scriptaculous), API consumption (SOAP and RESTful), eCommerce software, auction software, direct client interaction, XML",
+                            "tags": ""
+                        }
+                    ]
+                },
+                { 
+                    "title": "Sales Manager &amp; Full Stack Developer",
+                    "descriptions": [
+                        {
+                            "text": "Developer tasks detailed above. Sales management, primary customer contact, advertising and public communications.",
+                            "tags": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JSTOR",
+            "years": "2005-2008",
+            "positions": [
+                { 
+                    "title": "Quality Assurance Specialist",
+                    "descriptions": [
+                        {
+                            "text": "Software testing (functional and performance). Reviewing project requirements and design documentation. Frequently consulted by support, UI, and development teams for expertise.<br><br>Tools/skills: JIRA, Quality Center, Apache JMeter, automated testing, manual testing, defining test cases, JavaScript/HTML/CSS, Agile methodology, waterfall methodology, XML",
+                            "tags": ""
+                        }
+                    ]
+                },
+                { 
+                    "title": "User Services Assistant",
+                    "descriptions": [
+                        {
+                            "text": "General and technical support. Primary contact for complicated, sensitive, and technical queries. User access administration, including on-boarding new participating institutions to establish their access to the archive. Frequently consulted by support, UI, and development teams for expertise. Team intranet maintenance, information architecture, redesign. Mentoring and training other staff.<br><br>Tools/skills: Perl, IP registrars, command line IP validation processes, general networking knowledge, CRM software, email marketing tools, JavaScript/HTML/CSS, data migration, software release cycles, JIRA, XML",
+                            "tags": ""
+                        }
+                    ]
+                },
+                { 
+                    "title": "User Interface Intern",
+                    "descriptions": [
+                        {
+                            "text": "Web design and usability tasks. Creation of extensive functional HTML/CSS/JavaScript mockups. Assistance in creating and editing project requirements. Testing for web standards and accessibility compliance.<br><br>Tools/skills: JavaScript/HTML/CSS, information architecture, Adobe Photoshop and Illustrator, JIRA, UX/UI skills (user stories, wireframing, mockups, accessibility, usability testing), Agile methodology, waterfall methodology, XML",
+                            "tags": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "U of M ResComp",
+            "years": "2003-2005",
+            "positions": [
+                {
+                    "title": "Multiple Positions",
+                    "descriptions": [
+                        {
+                            "text": "Webmaster, designer, and developer for multiple internal and external web sites. Supervision and hiring assistance for new consultants. Development of two-week training session for new consultants. Educating students on technology related topics.<br><br>Tools/skills: JavaScript/HTML/CSS, Python, Plone/Zope, information architecture, training development, training delivery, web design, Adobe Photoshop and Illustrator, marketing campaign design"	,
+                            "tags": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summaries": [
+        {
+            "title": "Passionate",
+            "text": "Creative, user-centered design that meets stake holder goals.",
+            "tags": ""
+        },
+        {
+            "title": "Depth of Knowledge",
+            "text": "Extensive experience in all aspects of development life cycle.",
+            "tags": ""
+        },
+        {
+            "title": "Collegial",
+            "text": "Collaborative and enthusiastic member in any team.",
+            "tags": ""
+        },
+        {
+            "title": "Adaptable",
+            "text": "Thrives in any environment: high-pressure, changing requirements, demanding clients.",
+            "tags": ""
+        }
+    ],
+    "languages": [
+        {
+            "title": "HTML/CSS",
+            "years": "16"
+        },
+        {
+            "title": "JAVASCRIPT",
+            "years": "12"
+        },
+        {
+            "title": "PERL",
+            "years": "12"
+        },
+        {
+            "title": "PHP",
+            "years": "11"
+        },
+        {
+            "title": "MySQL",
+            "years": "11"
+        },
+        {
+            "title": "SQL",
+            "years": "11"
+        },
+        {
+            "title": "PYTHON",
+            "years": "2"
+        },
+        {
+            "title": "RUBY/RAILS",
+            "years": "1"
+        },
+        {
+            "title": "C++",
+            "years": "1"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "rank": "5"
+        },
+        {
+            "title": "UX/Accessibility",
+            "rank": "5"
+        },
+        {
+            "title": "Technical Writing",
+            "rank": "5"
+        },
+        {
+            "title": "Requirement Gathering",
+            "rank": "5"
+        },
+        {
+            "title": "Soft Skills",
+            "rank": "5"
+        },
+        {
+            "title": "QA Testing",
+            "rank": "4"
+        },
+        {
+            "title": "Project Management",
+            "rank": "3"
+        }
+    ]
+    }
