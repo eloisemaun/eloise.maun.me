@@ -1,0 +1,79 @@
+body {
+	font-family: Arial, Verdana, Sans-serif;
+	color: rgb(101, 128, 134);
+	padding-top: 110px;
+	font-size: 12px;
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/sprinkles.png");
+}
+
+/*** NAVBAR ***/
+.navbar {
+  border-bottom: 1px solid #e7e7e7;
+}
+.navbar h1, .navbar p {
+	font-family: Georgia, Times New Roman, Times, Serif;
+	font-size: 3.5em;
+	color: rgb(221, 173, 39);
+	letter-spacing: 3px;
+}
+.navbar p {
+	letter-spacing: 0px;
+	color: rgb(162, 178, 181);
+	font-size: 1.3em;
+}
+
+/*** HEADERS ***/
+
+h2, h3, .card-header {
+	letter-spacing: 2px;
+}
+
+.card .card-header {
+	background: rgb(221, 173, 39);
+}
+.card .card .card-header, h3 {
+	background: rgb(153, 197, 53);
+}
+
+.card p:last-child {
+  margin-bottom: 0;
+}
+
+.time {
+	letter-spacing: 0px;
+}
+
+/*** end HEADERS ***/
+
+.list-group-item-title {
+	letter-spacing: 2px;
+}
+
+
+/*** BOOTSTRAP customizing ***/
+.card, .card-header, .card-body, .list-group, .list-group-item {
+	border-color: rgb(241, 241, 241);
+}
+
+.badge {
+  background-color: rgb(137, 158, 163);
+  font-size: .8em;
+}
+
+
+@media (min-width: 900px) {
+  .container {
+    max-width: 850px;
+  }
+}
+
+/** Print Fixes **/
+@media print {
+	.navbar {
+		display: block;
+	}
+	body {
+		font-size: 10px;
+	}
+}
